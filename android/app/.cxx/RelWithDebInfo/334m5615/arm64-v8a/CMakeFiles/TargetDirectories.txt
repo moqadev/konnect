@@ -1,0 +1,2 @@
+/Users/omarsaid/Documents/other/hrapp/android/app/.cxx/RelWithDebInfo/334m5615/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/omarsaid/Documents/other/hrapp/android/app/.cxx/RelWithDebInfo/334m5615/arm64-v8a/CMakeFiles/rebuild_cache.dir
